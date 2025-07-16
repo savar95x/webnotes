@@ -1,0 +1,15 @@
+{
+  "name": "render-express-backend",
+  "version": "1.0.0",
+  "description": "Express Hello World on Render",
+  "main": "app.js",
+  "repository": "https://github.com/savar95x/webnotes",
+  "author": "Render Developers",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0"
+  }
+}
